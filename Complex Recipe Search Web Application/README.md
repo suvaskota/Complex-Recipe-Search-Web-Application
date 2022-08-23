@@ -1,4 +1,4 @@
-# Recipes-and-Ingredients-CIS-550-Project
+# Recipes-and-Ingredients-Web-App-Project
 
 ## Introduction
 
