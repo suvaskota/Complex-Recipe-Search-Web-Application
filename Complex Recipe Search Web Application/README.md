@@ -1,5 +1,6 @@
 # Recipes-and-Ingredients-Web-App-Project
 
+CIS 550 Final Project
 Team Members: Suvas Kota, Kevin Lamb, Zhouyang Fang, Aydin Imranov
 
 ## Introduction
