@@ -1,0 +1,15 @@
+#parent {
+    display: flex;
+}
+
+#map {
+    display: inline-block;
+    width: 70%;
+}
+
+#query-display {
+    display: inline-block;
+    position: absolute;
+    width: 30%;
+    color: blue;
+}
