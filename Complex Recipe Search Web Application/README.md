@@ -1,5 +1,7 @@
 # Recipes-and-Ingredients-Web-App-Project
 
+Team Members: Suvas Kota, Kevin Lamb, Zhouyang Fang, Aydin Imranov
+
 ## Introduction
 
 While some people may be natural and gifted chefs who do not need cookbooks or recipes to make good food, we realized that a lot of people need help to make sure that the food they make is decent - especially college students like us who do not have much time. However, one issue that we run into while using cookbooks is that it takes a while to find a recipe to match our preferences and the ingredients that we currently have in the kitchen. As a result, through the course of this project, we created a web application for people to quickly scan and select potential recipes to cook based on their needs and wishes. Specifically, this web application helps users by allowing them to search for recipes by ingredients, name, nutritional constraints, and countries/cuisines. 
